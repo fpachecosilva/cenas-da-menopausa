@@ -1,0 +1,62 @@
+{
+  "locais": [
+    {
+      "ativo": "active",
+      "breve": false,
+      "sigla": "CB",
+      "nomeaba": "Curitiba",
+      "nome": "Curitiba 06/06",
+      "nome2": "Curitiba 07/06",
+      "nome3": "Curitiba 08/06",
+      "local": "Teatro Guaíra",
+      "localend": "R. XV de Novembro, 971 - Centro, Curitiba - PR, 80060-000",
+      "link": "https://www.diskingressos.com.br/event/9417",
+      "link2": "https://www.diskingressos.com.br/event/9418",
+      "link3": "https://www.diskingressos.com.br/event/9419",
+      "horarios": {
+        "resumo": "",
+        "datas": "06, 07 e 08 de junho de 2025",
+        "diashorarios": "Sexta e Sábado às 21h, Domingo às 18h"
+      },
+      "tabela": {
+        "dia1": {
+          "dia": "Sexta",
+          "hora": "21h"
+        },
+        "dia2": {
+          "dia": "Sábado",
+          "hora": "21h"
+        },
+        "dia3": {
+          "dia": "Domingo",
+          "hora": "18h"
+        }
+      }
+    },
+    {
+      "ativo": "",
+      "breve": false,
+      "sigla": "SP",
+      "nomeaba": "São Paulo",
+      "nome": "São Paulo",
+      "local": "Teatro Claro MAIS SP",
+      "localend": "Shopping Vila Olímpia - R. Olimpíadas, 360 - Vila Olímpia, São Paulo - SP, 04551-000",
+      "link": "https://uhuu.com/evento/sp/sao-paulo/cenas-da-menopausa-14384",
+      "horarios": {
+        "resumo": "",
+        "datas": "A partir de 12 de junho",
+        "diashorarios": "Quinta a Sábado às 20h, Domingo às 18h"
+      },
+      "tabela": {
+        "dia1": {
+          "dia": "Quinta a Sábado",
+          "hora": "20h"
+        },
+        "dia2": {
+          "dia": "Domingo",
+          "hora": "18h"
+        }
+      }
+    }
+  ]
+}
