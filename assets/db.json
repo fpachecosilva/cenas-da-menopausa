@@ -1,7 +1,7 @@
 {
   "locais": [
     {
-      "ativo": "active",
+      "ativo": "",
       "breve": false,
       "sigla": "CB",
       "nomeaba": "Curitiba",
@@ -10,9 +10,9 @@
       "nome3": "Curitiba 08/06",
       "local": "Teatro Guaíra",
       "localend": "R. XV de Novembro, 971 - Centro, Curitiba - PR, 80060-000",
-      "link": "https://www.diskingressos.com.br/event/9417",
-      "link2": "https://www.diskingressos.com.br/event/9418",
-      "link3": "https://www.diskingressos.com.br/event/9419",
+      "link": "",
+      "link2": "",
+      "link3": "",
       "horarios": {
         "resumo": "",
         "datas": "06, 07 e 08 de junho de 2025",
@@ -55,6 +55,35 @@
         "dia2": {
           "dia": "Domingo",
           "hora": "18h"
+        }
+      }
+    },
+    {
+      "ativo": "active",
+      "breve": false,
+      "sigla": "RJ",
+      "nomeaba": "Rio de Janeiro",
+      "nome": "Rio de Janeiro",
+      "local": "Anfiteatro Teatro Riachuelo",
+      "localend": "R. do Passeio, 38/40 - Centro, Rio de Janeiro - RJ, 20021-290",
+      "link": "https://ingressocom.showare.com.br/Default.aspx?display=list&filter=day&eventid=484&websaleschannelkey=interiachuelo&sw_sc=interiachuelo&queueittoken=e_swbringressocom~q_00000000-0000-0000-0000-000000000000~ts_1754368762~ce_true~rt_afterevent~h_a549caaaea8b2250507da97a6b00adb8810c18e9e7c20dbdb2d7be037c8c0591&trk_eventId=484",
+      "horarios": {
+        "resumo": "",
+        "datas": "A partir de 16 de outubro",
+        "diashorarios": "Quinta e Sexta às 20h, Sábado a partir das 16h, Domingo a partir das 15h"
+      },
+      "tabela": {
+        "dia1": {
+          "dia": "Quinta e Sexta",
+          "hora": "20h"
+        },
+        "dia2": {
+          "dia": "Sábado",
+          "hora": "a partir das 16h"
+        },
+        "dia3": {
+          "dia": "Domingo",
+          "hora": "a partir das 15h"
         }
       }
     }

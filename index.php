@@ -135,6 +135,11 @@
 		</div>
 	</section>
 
+	<a href="<?php echo $images ?>Programa Digital_Menopausa.pdf" class="Btn-primary programa" id="programa" download>
+		<span><i class="fas fa-file-pdf"></i></span>
+		Clique aqui e baixe o PDF do programa do espetáculo
+	</a>
+
 	<section id="icones">
 		<h1 class="">CENAS DA MENOPAUSA</h1>
 
@@ -194,15 +199,7 @@
 								</a>
 							</div>					
 						';
-				} else {
-					echo '
-							<div class="card">				
-								<a onclick="gtag_report_conversion("")" class="Btn disabled" href="' . $local->link . '">
-									<h2>VENDAS ABERTAS - EM BREVE - ' . $local->nome . '</h2>
-								</a>
-							</div>					
-						';
-				}
+				} 
 
 				if (!empty($local->link2) && $local->breve == false) {
 					echo '
@@ -234,27 +231,37 @@
 			</p>
 			<p>
 				<strong>Elenco:</strong> Claudia Raia e Jarbas Homem de Mello<br>
-				<strong>Texto e Versões Musicais:</strong> Anna Toledo<br>
+				<strong>Texto e versões musicais:</strong> Anna Toledo<br>
 				<strong>Direção:</strong> Jarbas Homem de Mello<br>
 				<strong>Diretora Residente:</strong> Sabrina Mirabelli<br>
 				<strong>Diretor Musical, Arranjos e Trilha Sonora:</strong> Guilherme Terra<br>
 				<strong>Voz Off:</strong> Miguel Falabella<br>
-				<strong>Trilha Sonora - backing vocals:</strong> Helga Nemetik, Marilice Cosenz e Paula Capovilla<br>
+				<strong>Trilha sonora - banking vocals:</strong> Helga Nemetik, Marilice Cosenz e Paula Capovilla<br>
 				<strong>Design de Som:</strong> Tocko Michelazzo<br>
 				<strong>Design de Luz:</strong> Wagner Freire<br>
+				<strong>Assistente de Iluminação:</strong> Jackis Roberto<br>
 				<strong>Cenário:</strong> Natália Lana<br>
 				<strong>Assistente de Cenografia:</strong> Victor Aragão<br>
 				<strong>Cenotécnico:</strong> André Salles<br>
 				<strong>Figurinos:</strong> Bruno Oliveira<br>
 				<strong>Assistente de Figurino:</strong> Eliana Liu<br>
 				<strong>Visagismo:</strong> Dicko Lorenzo<br>
-				<strong>Assistente de Visagismo:</strong> Rud Motta<br>
-				<strong>Contrarregra:</strong> Jonatas Henrique<br>
+				<strong>Assistente de visagismo:</strong> Rud Motta<br>
+				<strong>Assistente de Palco:</strong> Jonatas Henrique<br>
 				<strong>Operador de Som:</strong> Silney Marcondes<br>
-				<strong>Operador de Luz:</strong> Mateus Macedo<br>
-				<strong>Produção:</strong> Amanda Leones (Versa Cultural) e Magali Elena Produções<br>
+				<strong>Operador de Luz:</strong> Matheus Macedo<br>
+				<strong>Designer gráfico:</strong> Peu Fulgencio<br>
+				<strong>Webdesigner:</strong> Fábio Pacheco e Júlio Augusto<br>
+				<strong>Gerente de Mídias Sociais:</strong> Marilia Di Dio<br>
+				<strong>Gerente de Mídia - Plano de Marketing:</strong> Aline Vedana<br>
+				<strong>Assessoria de Imprensa:</strong> Agência Taga<br>
+				<strong>Contabilidade:</strong> J Rampinelli Calero Assessoria Contábil<br>
+				<strong>Gestão de Incentivo:</strong> IC Cultura<br>
+				<strong>Estágio Produção:</strong> Jean Lucca<br>
+				<strong>Produção Executiva:</strong> Magali Elena Produções<br>
+				<strong>Gerente de Produção:</strong> Amanda Leones - Versa Cultural<br>
 				<strong>Produção Geral:</strong> Fernando Pagan<br>
-				<strong>Realização:</strong> Raia Produções
+				<strong>Realização:</strong> Raia Produções<br>
 			</p>
 
 			<p>

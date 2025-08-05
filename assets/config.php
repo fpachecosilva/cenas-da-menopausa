@@ -2,9 +2,9 @@
 <?php
 $empresa = 'Cenas da Menopausa';
 $CNPJ = '00.000.000/0001-00';
-//$url = 'http://localhost/cenas-da-menopausa/';
-// $url = 'https://www.cenas-da-menopausa.com.br/';
-$url = 'https://previewbsagency.com.br/cenas-da-menopausa/';
+$url = 'http://localhost/cenas-da-menopausa/';
+//$url = 'https://www.cenasdamenopausa.com.br/';
+// $url = 'https://previewbsagency.com.br/cenas-da-menopausa/';
 $images = $url . 'assets/images/';
 $Tags = '';
 
