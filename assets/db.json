@@ -59,7 +59,7 @@
       }
     },
     {
-      "ativo": "active",
+      "ativo": "",
       "breve": false,
       "sigla": "RJ",
       "nomeaba": "Rio de Janeiro",
@@ -84,6 +84,60 @@
         "dia3": {
           "dia": "Domingo",
           "hora": "a partir das 15h"
+        }
+      }
+    },
+    {
+      "ativo": "active",
+      "breve": false,
+      "sigla": "RS",
+      "nomeaba": "Porto Alegre",
+      "nome": "Porto Alegre",
+      "local": "Teatro FIERGS",
+      "localend": "Av. Assis Brasil, 8787 - Sarandi, Porto Alegre - RS, 91140-001",
+      "link": "https://uhuu.com/evento/rs/porto-alegre/cenas-da-menopausa-15134",
+      "horarios": {
+        "resumo": "",
+        "datas": "A partir de 24 de outubro",
+        "diashorarios": "Sábado 20h, Domingo 18h"
+      },
+      "tabela": {
+        "dia1": {
+          "dia": "Sábado",
+          "hora": "20h"
+        },
+        "dia2": {
+          "dia": "Domingo",
+          "hora": "18h"
+        }
+      }
+    },
+    {
+      "ativo": "",
+      "breve": false,
+      "sigla": "MG",
+      "nomeaba": "Belo Horizonte",
+      "nome": "Belo Horizonte",
+      "local": "Sesc Palladium",
+      "localend": "Rua Rio de Janeiro, 1046 - Belo Horizonte - MG, 91140-001",
+      "link": "https://bileto.sympla.com.br/event/111691/d/342774?_gl=1*1me0uss*_gcl_au*ODIyNTMyMTQ1LjE3NTQ1MDg1NzguMTk4MDQ1MTg1MS4xNzU1MDI2MTAxLjE3NTUwMjYxMDE.*_ga*MTYxNzE5ODA4My4xNzQzMDIwMTUx*_ga_KXH10SQTZF*czE3NjEzMTg4NzkkbzEzJGcxJHQxNzYxMzE5NDAwJGozMiRsMCRoOTU2MTg1MDE",
+      "horarios": {
+        "resumo": "",
+        "datas": "A partir de 31 de outubro",
+        "diashorarios": "Sexta 21h, Sábado 19h, Domingo 19h"
+      },
+      "tabela": {
+        "dia1": {
+          "dia": "Sexta",
+          "hora": "21h"
+        },
+        "dia2": {
+          "dia": "Sábado",
+          "hora": "19h"
+        },        
+        "dia3": {
+          "dia": "Domingo",
+          "hora": "19h"
         }
       }
     }
